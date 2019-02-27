@@ -1,0 +1,211 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+h1 {
+  font-family: "Monoton", cursive;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Audiowide", cursive;
+}
+
+p {
+  font-family: "Poppins", sans-serif;
+}
+
+.jumbotron-li-title-category {
+  margin-left: 100px;
+  margin-top: 17px;
+  font-weight: bold;
+  font-size: 21px;
+}
+
+.jumbotron-li-title-category-materialoffice {
+  margin-left: 80px;
+  margin-top: 17px;
+  font-weight: bold;
+  font-size: 21px;
+}
+
+.jumbotron-li-title-category-food {
+  margin-left: 125px;
+  margin-top: 17px;
+  font-weight: bold;
+  font-size: 21px;
+}
+
+.category {
+  width: 40%;
+  margin-left: 85px;
+}
+.jumbotron {
+  padding: 8rem 2rem;
+  padding-bottom: 15px;
+  background-color: #dbdbdb;
+}
+.category-li {
+  margin-right: 0px;
+  margin-top: 70px;
+}
+
+ul {
+  display: flex;
+  list-style-type: none;
+}
+
+.features {
+  font-size: 85px;
+  margin-right: 75px;
+}
+
+.about-more-btn {
+  background-color: #1e243f;
+}
+/*novo */
+.about-more-btn:hover {
+  background-color: #ed754d;
+  border: 1px solid #ed754d;
+}
+
+.btn-secondary.focus,
+.btn-secondary:focus {
+  box-shadow: none;
+}
+
+.btn-secondary:not(:disabled):not(.disabled):active {
+  color: #fff;
+  background-color: #ed754d;
+  border-color: #ed754d;
+}
+.btn:focus {
+  outline: none;
+}
+
+.btn-secondary.focus,
+.btn-secondary:focus {
+  box-shadow: none;
+}
+
+/* até aqui novo */
+.home-info {
+  line-height: 2;
+  padding: 40px;
+  text-align: center;
+}
+
+.section-features-title {
+  text-align: left;
+  color: #fff;
+}
+
+.lead {
+  text-align: -webkit-center;
+}
+
+.about-features {
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+
+.section {
+  background-color: #ed754d;
+  padding: 60px;
+  margin-top: 30px;
+}
+
+.icon {
+  font-size: 100px;
+  color: #1e243f;
+  margin-left: 150px;
+}
+
+.section-features-good {
+  background-color: #1e243f;
+  padding: 60px;
+  color: #ed754d;
+}
+
+.fa-thumbs-up {
+  color: #ed754d;
+  margin-left: 100px;
+  margin-top: 50px;
+}
+
+.fa-shipping-fast {
+  color: #1e243f;
+  margin-top: 50px;
+}
+
+.fa-box-open {
+  margin-top: 50px;
+  color: #1e243f;
+}
+
+.about-feature {
+  line-height: 2;
+}
+
+.only-portugal {
+  margin: 50px;
+}
+
+.only-portugal-subtitle {
+  text-align: center;
+  color: white;
+  margin-top: 20px;
+}
+
+.only-portugal-subtitle-p {
+  font-size: 25px;
+  color: #fff;
+  text-align: center;
+}
+
+.only-portugal-img {
+  margin-left: 100px;
+  width: 39%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border-radius: 20%;
+}
+
+.only-portugal-where-ul {
+  display: list-item;
+  font-family: "Poppins", sans-serif;
+  list-style: circle;
+  margin-top: 95px;
+  margin-left: 40px;
+}
+
+.only-protugal-districts {
+  font-size: 20px;
+}
+
+.jumbotron-h2 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.separator-boxes {
+  margin-top: 15px;
+}
+.section-exclusive-portugal {
+  background-color: #1e243f;
+  padding: 10px;
+}
+
+.city-success {
+  background-color: #ed754d;
+  width: 40%;
+  margin-right: 15px;
+  border-radius: 40px;
+  text-align: center;
+  border-color: #ed754d;
+  box-shadow: 3px 3px grey;
+  color: #fff;
+}
+
+

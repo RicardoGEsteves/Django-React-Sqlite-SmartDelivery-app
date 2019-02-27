@@ -1,0 +1,54 @@
+.contact-img {
+  width: 100%;
+}
+
+.title-pageh2 {
+  font-size: 45px;
+  margin-top: 20px;
+}
+.contact-map {
+  border-radius: 20%;
+  opacity: 0.7;
+  box-shadow: 3px 5px;
+}
+
+.container-contacts {
+  padding-top: 80px;
+  padding-bottom: 20px;
+}
+
+.title-header {
+  color: white;
+  background-color: #1e243f;
+  margin: 0;
+  padding: 20px;
+}
+
+.btn-send {
+  background-color: #ed754d;
+  border-radius: 50px;
+  float: right;
+  border: 2px solid #ed754d;
+}
+.btn-send:hover {
+  background-color: #1e243f;
+  border-radius: 50px;
+}
+
+.contact-us-p {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.div-email {
+  padding: 40px;
+}
+
+h2 a {
+  color: #1e243f;
+  font-size: 20px;
+}
+
+.btn-secondary:not(:disabled):not(.disabled):active:focus {
+  box-shadow: none;
+}

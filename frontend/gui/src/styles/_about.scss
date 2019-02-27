@@ -1,0 +1,69 @@
+.title-header {
+  background-color: #1e243f;
+  color: white;
+  margin: 0;
+  padding: 20px;
+}
+
+.title-page {
+  font-size: 45px;
+  margin-top: 20px;
+}
+
+.header-image {
+  width: 100%;
+  margin-top: -2em;
+  margin-bottom: 2em;
+}
+
+.about-profile-pic {
+  float: left;
+  margin: 0 1em 1em 0;
+}
+
+.about-img {
+  width: 100%;
+  opacity: 0.7;
+}
+.ourteam-ul {
+  padding: 40px;
+}
+
+.section-about {
+  padding: 20px;
+}
+
+.about-div {
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+.card-img-top {
+  width: 35%;
+  border-radius: 50%;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.card {
+  text-align: center;
+  border: 2px solid #ed754d;
+  background-color: #1e243f;
+}
+.card-text {
+  color: white;
+}
+.card-title {
+  color: #ed754d;
+  font-size: 20px;
+}
+
+h2 {
+  text-align: center;
+}
+
+.card-info.card-body {
+  flex: 1 1 auto;
+  padding: 1.25rem;
+  background-color: #1e243f;
+}

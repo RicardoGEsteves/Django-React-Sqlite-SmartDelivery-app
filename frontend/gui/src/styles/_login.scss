@@ -1,0 +1,80 @@
+.modal-header {
+  background-color: #1e243f;
+  color: #fff;
+  text-align: center;
+}
+
+.modal-footer {
+  background-color: #1e243f;
+  border: 1px solid #1e243f;
+}
+
+h5 {
+  font-family: "Audiowide", cursive;
+  text-align: center;
+}
+
+.btn-primary {
+  border-radius: 20px;
+  background-color: #ed754d;
+  border: 1px solid #ed754d;
+}
+
+.btn-primary:hover {
+  border-radius: 20px;
+  background-color: grey;
+  border: 1px solid #ed754d;
+}
+label {
+  margin-top: 1rem;
+  color: #fff;
+}
+
+.modal-body {
+  background-color: #ed754d;
+  border: 8px solid #ed754f;
+  color: #fff;
+}
+
+span {
+  color: #1e243f;
+  font-weight: bold;
+}
+
+.btn-primary:not(:disabled):not(.disabled):active {
+  color: #000;
+  background-color: #dbdbdb;
+  border-color: #dbdbdb;
+}
+
+.btn-primary:focus {
+  box-shadow: none;
+}
+
+.btn-primary:not(:disabled):not(.disabled):active:focus {
+  box-shadow: none;
+}
+
+.alert-login {
+  font-weight: bold;
+  font-size: 15px;
+  color: #721c24;
+  background-color: #f8d7da;
+  border-color: #f5c6cb;
+  padding: 20px;
+  margin-bottom: 0px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.success-register {
+  font-weight: bold;
+  font-size: 15px;
+  color: #155724;
+  background-color: #d4edda;
+  border-color: #c3e6cb;
+  padding: 20px;
+  margin-bottom: 0px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
