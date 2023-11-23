@@ -23,9 +23,10 @@ This is my own project, so if you have some positive critics or ideas I would li
 - run the command `python manage.py runserver`
 - localhost: 8000 / admin -> access to django
 - Login admin through:
-username: username that you selected when creating super user
-password: password that you selected when creating super user
+  username: username that you selected when creating super user
+  password: password that you selected when creating super user
 - To access the api just put "/ api" in the url, it is necessary to have the login done. Ex: localhost: 8000 / api
+- Also create a .txt file for example to host your SECRET_KEY
 
 ### To run react:
 
