@@ -34,4 +34,4 @@ This is my own project, so if you have some positive critics or ideas I would li
 - Install the npm packages in the gui folder (through the command: `npm i` or `npm install`)
 - To see the project frontend run the `npm start` command, it will open in localhost: 3000
 
-**PS: the css is really bad i know, and outdated but was done fast and without any structure with the idea to be changed for scss, and flexbox!**
+**PS: the css is really bad i know, and outdated but was done fast and without any structure with the idea to be changed in the future!**
