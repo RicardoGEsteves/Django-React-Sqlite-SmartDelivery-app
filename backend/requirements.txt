@@ -11,4 +11,4 @@ pycodestyle==2.11.1
 pylint==3.0.3
 pytz==2023.3.post1
 six==1.16.0
-wrapt==1.10.11
+wrapt==1.16.0
