@@ -11,7 +11,7 @@
         "react-dom": "^16.13.0",
         "react-router-dom": "^5.3.4",
         "react-scripts": "^5.0.1",
-        "reactstrap": "^7.0.2"
+        "reactstrap": "^9.2.2"
     },
     "scripts": {
         "start": "react-scripts start",
