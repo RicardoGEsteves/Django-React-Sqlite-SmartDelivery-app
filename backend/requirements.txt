@@ -1,5 +1,5 @@
 astroid==3.0.2
-autopep8==1.7.0
+autopep8==2.0.4
 colorama==0.4.6
 Django==5.0.1
 djangorestframework==3.14.0
