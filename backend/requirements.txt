@@ -1,4 +1,4 @@
-astroid==3.0.2
+astroid==3.0.3
 autopep8==2.0.4
 colorama==0.4.6
 Django==5.0.1
