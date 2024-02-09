@@ -3,12 +3,12 @@ updates:
   - package-ecosystem: npm
     directory: /frontend/gui
     schedule:
-      interval: weekly
-      day: sunday
+      interval: "monthly"
+      day: "sunday"
       time: "16:00"
   - package-ecosystem: pip
     directory: /backend
     schedule:
-      interval: weekly
-      day: sunday
+      interval: "monthly"
+      day: "sunday"
       time: "16:00"
