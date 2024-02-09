@@ -55,10 +55,11 @@
       "matchFileNames": ["**/package.json"],
       "groupName": "All package.json changes"
     },
-      "description": "Group dependencies from requirements.txt files",
+    {
+      "description": "Group dependencies from package.json files",
       "matchFileNames": ["**/requirements.txt"],
       "groupName": "All requirements.txt changes"
-    
+    },
     {
       "description": "Automatically merge minor and patch-level updates",
       "matchUpdateTypes": ["minor", "patch", "pin", "digest"],
