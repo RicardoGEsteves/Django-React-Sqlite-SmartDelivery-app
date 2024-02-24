@@ -1,4 +1,4 @@
-astroid==3.0.3
+astroid==3.1.0
 autopep8==2.0.4
 colorama==0.4.6
 Django==5.0.2
@@ -8,7 +8,7 @@ lazy-object-proxy==1.10.0
 mccabe==0.7.0
 pep8==1.7.1
 pycodestyle==2.11.1
-pylint==3.0.3
+pylint==3.0.4
 pytz==2024.1
 six==1.16.0
 wrapt==1.16.0
