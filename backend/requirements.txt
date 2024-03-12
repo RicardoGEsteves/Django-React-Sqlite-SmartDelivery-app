@@ -1,7 +1,7 @@
 astroid==3.1.0
 autopep8==2.0.4
 colorama==0.4.6
-Django==5.0.2
+Django==5.0.3
 djangorestframework==3.14.0
 isort==5.13.2
 lazy-object-proxy==1.10.0
